@@ -11,4 +11,9 @@ export const LayoutData = [
     title: "Category",
     icon: MenuFoldOutlined,
   },
+  {
+    link: "/app/products",
+    title: "Products",
+    icon: MenuFoldOutlined,
+  },
 ];
